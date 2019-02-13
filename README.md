@@ -22,5 +22,5 @@ The app supports multiple users.
 
 
 #### Todo
-- [] add usernames next to messages
+- add usernames next to messages
 - improve UI (remove specific reference)
